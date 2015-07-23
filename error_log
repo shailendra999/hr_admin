@@ -1,0 +1,279 @@
+[05-Jun-2015 08:24:25 America/Chicago] PHP Fatal error:  Call to undefined function session_register() in /home/ssofts/public_html/lss/logoff.php on line 10
+[09-Jun-2015 00:19:25 America/Chicago] PHP Fatal error:  Call to undefined function session_register() in /home/ssofts/public_html/lss/logoff.php on line 10
+[09-Jun-2015 00:19:58 America/Chicago] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/ssofts/public_html/lss/user_leave.php on line 334
+[09-Jun-2015 00:30:08 America/Chicago] PHP Parse error:  syntax error, unexpected end of file in /home/ssofts/public_html/lss/User_details.php on line 150
+[09-Jun-2015 00:45:43 America/Chicago] PHP Parse error:  syntax error, unexpected end of file in /home/ssofts/public_html/lss/User_details.php on line 659
+[09-Jun-2015 00:46:29 America/Chicago] PHP Parse error:  syntax error, unexpected end of file in /home/ssofts/public_html/lss/User_details.php on line 1490
+[09-Jun-2015 01:05:06 America/Chicago] PHP Fatal error:  Call to undefined function session_register() in /home/ssofts/public_html/lss/logoff.php on line 10
+[09-Jun-2015 03:31:57 America/Chicago] PHP Fatal error:  Call to undefined function session_register() in /home/ssofts/public_html/lss/logoff.php on line 10
+[09-Jun-2015 04:02:27 America/Chicago] PHP Warning:  implode(): Invalid arguments passed in /home/ssofts/public_html/lss/User_details.php on line 775
+[09-Jun-2015 04:02:27 America/Chicago] PHP Warning:  implode(): Invalid arguments passed in /home/ssofts/public_html/lss/User_details.php on line 788
+[09-Jun-2015 04:02:27 America/Chicago] PHP Warning:  implode(): Invalid arguments passed in /home/ssofts/public_html/lss/User_details.php on line 810
+[09-Jun-2015 04:02:27 America/Chicago] PHP Warning:  implode(): Invalid arguments passed in /home/ssofts/public_html/lss/User_details.php on line 814
+[09-Jun-2015 04:02:27 America/Chicago] PHP Warning:  implode(): Invalid arguments passed in /home/ssofts/public_html/lss/User_details.php on line 816
+[09-Jun-2015 04:12:15 America/Chicago] PHP Warning:  implode(): Invalid arguments passed in /home/ssofts/public_html/lss/User_details.php on line 775
+[09-Jun-2015 04:12:15 America/Chicago] PHP Warning:  implode(): Invalid arguments passed in /home/ssofts/public_html/lss/User_details.php on line 788
+[09-Jun-2015 04:12:15 America/Chicago] PHP Warning:  implode(): Invalid arguments passed in /home/ssofts/public_html/lss/User_details.php on line 810
+[09-Jun-2015 04:12:15 America/Chicago] PHP Warning:  implode(): Invalid arguments passed in /home/ssofts/public_html/lss/User_details.php on line 814
+[09-Jun-2015 04:12:15 America/Chicago] PHP Warning:  implode(): Invalid arguments passed in /home/ssofts/public_html/lss/User_details.php on line 816
+[09-Jun-2015 05:33:40 America/Chicago] PHP Parse error:  syntax error, unexpected end of file in /home/ssofts/public_html/lss/User_details.php on line 760
+[09-Jun-2015 05:36:02 America/Chicago] PHP Fatal error:  Call to undefined function session_register() in /home/ssofts/public_html/lss/logoff.php on line 10
+[09-Jun-2015 05:37:39 America/Chicago] PHP Fatal error:  Call to undefined function session_register() in /home/ssofts/public_html/lss/logoff.php on line 10
+[09-Jun-2015 05:49:17 America/Chicago] PHP Fatal error:  Call to undefined function session_register() in /home/ssofts/public_html/lss/logoff.php on line 10
+[09-Jun-2015 06:13:54 America/Chicago] PHP Parse error:  syntax error, unexpected end of file in /home/ssofts/public_html/lss/User_details.php on line 412
+[11-Jun-2015 01:16:55 America/Chicago] PHP Fatal error:  Call to undefined function session_register() in /home/ssofts/public_html/lss/logoff.php on line 10
+[11-Jun-2015 01:38:37 America/Chicago] PHP Fatal error:  Call to undefined function session_register() in /home/ssofts/public_html/lss/logoff.php on line 10
+[11-Jun-2015 02:16:19 America/Chicago] PHP Fatal error:  Call to undefined function session_register() in /home/ssofts/public_html/lss/logoff.php on line 10
+[11-Jun-2015 03:36:30 America/Chicago] PHP Fatal error:  Call to undefined function session_register() in /home/ssofts/public_html/lss/logoff.php on line 10
+[12-Jun-2015 01:26:08 America/Chicago] PHP Fatal error:  Call to undefined function session_is_registered() in /home/ssofts/public_html/lss/employee_detail.php on line 633
+[12-Jun-2015 01:26:41 America/Chicago] PHP Fatal error:  Call to undefined function session_is_registered() in /home/ssofts/public_html/lss/employee_detail.php on line 633
+[12-Jun-2015 01:26:43 America/Chicago] PHP Fatal error:  Call to undefined function session_is_registered() in /home/ssofts/public_html/lss/employee_detail.php on line 633
+[12-Jun-2015 01:26:45 America/Chicago] PHP Fatal error:  Call to undefined function session_is_registered() in /home/ssofts/public_html/lss/employee_detail.php on line 633
+[12-Jun-2015 01:26:47 America/Chicago] PHP Fatal error:  Call to undefined function session_register() in /home/ssofts/public_html/lss/employee_detail.php on line 633
+[12-Jun-2015 01:26:49 America/Chicago] PHP Fatal error:  Call to undefined function session_register() in /home/ssofts/public_html/lss/employee_detail.php on line 633
+[13-Jun-2015 06:18:42 America/Chicago] PHP Fatal error:  Call to undefined function session_register() in /home/ssofts/public_html/lss/logoff.php on line 10
+[15-Jun-2015 03:27:54 America/Chicago] PHP Fatal error:  Call to undefined function session_register() in /home/ssofts/public_html/lss/logoff.php on line 10
+[15-Jun-2015 04:20:29 America/Chicago] PHP Fatal error:  Call to undefined function session_register() in /home/ssofts/public_html/lss/logoff.php on line 10
+[18-Jun-2015 07:28:05 America/Chicago] PHP Fatal error:  Call to undefined function session_register() in /home/ssofts/public_html/lss/logoff.php on line 10
+[19-Jun-2015 02:22:38 America/Chicago] PHP Fatal error:  Call to undefined function session_register() in /home/ssofts/public_html/lss/logoff.php on line 10
+[26-Jun-2015 00:08:46 America/Chicago] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/ssofts/public_html/lss/add_designation_leave.php on line 221
+[26-Jun-2015 01:01:36 America/Chicago] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/ssofts/public_html/lss/user_leave.php on line 334
+[26-Jun-2015 01:01:47 America/Chicago] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/ssofts/public_html/lss/user_leave.php on line 334
+[26-Jun-2015 01:02:17 America/Chicago] PHP Fatal error:  Call to undefined function session_register() in /home/ssofts/public_html/lss/logoff.php on line 10
+[26-Jun-2015 01:03:45 America/Chicago] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/ssofts/public_html/lss/user_leave.php on line 334
+[26-Jun-2015 01:03:49 America/Chicago] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/ssofts/public_html/lss/user_leave.php on line 334
+[26-Jun-2015 01:03:54 America/Chicago] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/ssofts/public_html/lss/user_leave.php on line 334
+[26-Jun-2015 01:41:54 America/Chicago] PHP Warning:  implode(): Invalid arguments passed in /home/ssofts/public_html/lss/employee_detail.php on line 832
+[26-Jun-2015 01:41:54 America/Chicago] PHP Warning:  implode(): Invalid arguments passed in /home/ssofts/public_html/lss/employee_detail.php on line 839
+[26-Jun-2015 01:41:54 America/Chicago] PHP Warning:  implode(): Invalid arguments passed in /home/ssofts/public_html/lss/employee_detail.php on line 843
+[26-Jun-2015 01:41:54 America/Chicago] PHP Warning:  implode(): Invalid arguments passed in /home/ssofts/public_html/lss/employee_detail.php on line 845
+[26-Jun-2015 01:42:26 America/Chicago] PHP Warning:  implode(): Invalid arguments passed in /home/ssofts/public_html/lss/employee_detail.php on line 832
+[26-Jun-2015 01:42:26 America/Chicago] PHP Warning:  implode(): Invalid arguments passed in /home/ssofts/public_html/lss/employee_detail.php on line 845
+[26-Jun-2015 01:42:26 America/Chicago] PHP Warning:  implode(): Invalid arguments passed in /home/ssofts/public_html/lss/employee_detail.php on line 867
+[26-Jun-2015 01:42:26 America/Chicago] PHP Warning:  implode(): Invalid arguments passed in /home/ssofts/public_html/lss/employee_detail.php on line 871
+[26-Jun-2015 01:42:26 America/Chicago] PHP Warning:  implode(): Invalid arguments passed in /home/ssofts/public_html/lss/employee_detail.php on line 873
+[26-Jun-2015 01:42:49 America/Chicago] PHP Warning:  implode(): Invalid arguments passed in /home/ssofts/public_html/lss/employee_detail.php on line 832
+[26-Jun-2015 01:42:49 America/Chicago] PHP Warning:  implode(): Invalid arguments passed in /home/ssofts/public_html/lss/employee_detail.php on line 845
+[26-Jun-2015 01:42:49 America/Chicago] PHP Warning:  implode(): Invalid arguments passed in /home/ssofts/public_html/lss/employee_detail.php on line 867
+[26-Jun-2015 01:42:49 America/Chicago] PHP Warning:  implode(): Invalid arguments passed in /home/ssofts/public_html/lss/employee_detail.php on line 871
+[26-Jun-2015 01:42:49 America/Chicago] PHP Warning:  implode(): Invalid arguments passed in /home/ssofts/public_html/lss/employee_detail.php on line 873
+[26-Jun-2015 01:50:18 America/Chicago] PHP Warning:  implode(): Invalid arguments passed in /home/ssofts/public_html/lss/employee_detail.php on line 832
+[26-Jun-2015 01:50:18 America/Chicago] PHP Warning:  implode(): Invalid arguments passed in /home/ssofts/public_html/lss/employee_detail.php on line 845
+[26-Jun-2015 01:50:18 America/Chicago] PHP Warning:  implode(): Invalid arguments passed in /home/ssofts/public_html/lss/employee_detail.php on line 867
+[26-Jun-2015 01:50:18 America/Chicago] PHP Warning:  implode(): Invalid arguments passed in /home/ssofts/public_html/lss/employee_detail.php on line 871
+[26-Jun-2015 01:50:18 America/Chicago] PHP Warning:  implode(): Invalid arguments passed in /home/ssofts/public_html/lss/employee_detail.php on line 873
+[26-Jun-2015 01:51:09 America/Chicago] PHP Warning:  implode(): Invalid arguments passed in /home/ssofts/public_html/lss/employee_detail.php on line 832
+[26-Jun-2015 01:51:09 America/Chicago] PHP Warning:  implode(): Invalid arguments passed in /home/ssofts/public_html/lss/employee_detail.php on line 845
+[26-Jun-2015 01:51:09 America/Chicago] PHP Warning:  implode(): Invalid arguments passed in /home/ssofts/public_html/lss/employee_detail.php on line 867
+[26-Jun-2015 01:51:09 America/Chicago] PHP Warning:  implode(): Invalid arguments passed in /home/ssofts/public_html/lss/employee_detail.php on line 871
+[26-Jun-2015 01:51:09 America/Chicago] PHP Warning:  implode(): Invalid arguments passed in /home/ssofts/public_html/lss/employee_detail.php on line 873
+[26-Jun-2015 07:08:20 America/Chicago] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/ssofts/public_html/lss/add_designation_leave.php on line 221
+[26-Jun-2015 07:12:18 America/Chicago] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/ssofts/public_html/lss/add_designation_leave.php on line 221
+[26-Jun-2015 07:13:58 America/Chicago] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/ssofts/public_html/lss/add_designation_leave.php on line 221
+[26-Jun-2015 07:57:01 America/Chicago] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/ssofts/public_html/lss/user_leave.php on line 334
+[26-Jun-2015 07:57:49 America/Chicago] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/ssofts/public_html/lss/user_leave.php on line 334
+[26-Jun-2015 07:58:45 America/Chicago] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, null given in /home/ssofts/public_html/lss/get-emp-by-typ.php on line 21
+[26-Jun-2015 07:59:29 America/Chicago] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/ssofts/public_html/lss/user_leave.php on line 334
+[26-Jun-2015 07:59:45 America/Chicago] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/ssofts/public_html/lss/user_leave.php on line 334
+[26-Jun-2015 08:04:12 America/Chicago] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, null given in /home/ssofts/public_html/lss/get-emp-by-typ.php on line 21
+[26-Jun-2015 08:04:54 America/Chicago] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, null given in /home/ssofts/public_html/lss/get-emp-by-typ.php on line 21
+[26-Jun-2015 08:06:06 America/Chicago] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, null given in /home/ssofts/public_html/lss/get-emp-by-typ.php on line 21
+[26-Jun-2015 08:06:09 America/Chicago] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, null given in /home/ssofts/public_html/lss/get-emp-by-typ.php on line 21
+[26-Jun-2015 08:06:11 America/Chicago] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, null given in /home/ssofts/public_html/lss/get-emp-by-typ.php on line 21
+[26-Jun-2015 08:06:14 America/Chicago] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, null given in /home/ssofts/public_html/lss/get-emp-by-typ.php on line 21
+[26-Jun-2015 08:13:22 America/Chicago] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, null given in /home/ssofts/public_html/lss/get-emp-by-typ.php on line 21
+[26-Jun-2015 08:36:41 America/Chicago] PHP Fatal error:  Call to undefined function session_register() in /home/ssofts/public_html/lss/logoff.php on line 10
+[27-Jun-2015 03:08:59 America/Chicago] PHP Fatal error:  Call to undefined function session_register() in /home/ssofts/public_html/lss/logoff.php on line 10
+[27-Jun-2015 03:20:24 America/Chicago] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/ssofts/public_html/lss/add_designation_leave.php on line 221
+[27-Jun-2015 03:26:02 America/Chicago] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/ssofts/public_html/lss/add_designation_leave.php on line 221
+[27-Jun-2015 03:27:30 America/Chicago] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/ssofts/public_html/lss/add_designation_leave.php on line 221
+[29-Jun-2015 02:16:00 America/Chicago] PHP Fatal error:  Call to undefined function session_register() in /home/ssofts/public_html/lss/logoff.php on line 10
+[30-Jun-2015 00:59:02 America/Chicago] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/ssofts/public_html/lss/arrear_submit.php:1) in /home/ssofts/public_html/lss/inc/check_session.php on line 4
+[30-Jun-2015 00:59:17 America/Chicago] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/ssofts/public_html/lss/arrear_submit.php:1) in /home/ssofts/public_html/lss/inc/check_session.php on line 4
+[30-Jun-2015 01:26:38 America/Chicago] PHP Fatal error:  Call to undefined function session_register() in /home/ssofts/public_html/lss/logoff.php on line 10
+[30-Jun-2015 01:26:39 America/Chicago] PHP Fatal error:  Call to undefined function session_register() in /home/ssofts/public_html/lss/logoff.php on line 10
+[30-Jun-2015 01:49:14 America/Chicago] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/ssofts/public_html/lss/create_employee_login.php on line 63
+[30-Jun-2015 01:52:29 America/Chicago] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/ssofts/public_html/lss/create_employee_login.php on line 63
+[30-Jun-2015 02:43:12 America/Chicago] PHP Parse error:  syntax error, unexpected end of file in /home/ssofts/public_html/lss/User_details.php on line 1567
+[30-Jun-2015 04:31:53 America/Chicago] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/ssofts/public_html/lss/add_designation_leave.php on line 221
+[01-Jul-2015 00:57:45 America/Chicago] PHP Fatal error:  Call to undefined function session_register() in /home/ssofts/public_html/lss/logoff.php on line 10
+[01-Jul-2015 02:18:11 America/Chicago] PHP Fatal error:  Call to undefined function session_register() in /home/ssofts/public_html/lss/logoff.php on line 10
+[01-Jul-2015 02:25:12 America/Chicago] PHP Fatal error:  Call to undefined function session_register() in /home/ssofts/public_html/lss/logoff.php on line 10
+[01-Jul-2015 07:24:27 America/Chicago] PHP Parse error:  syntax error, unexpected end of file in /home/ssofts/public_html/lss/User_details.php on line 360
+[01-Jul-2015 09:02:23 America/Chicago] PHP Fatal error:  Call to undefined function session_register() in /home/ssofts/public_html/lss/logoff.php on line 10
+[02-Jul-2015 00:17:14 America/Chicago] PHP Fatal error:  Call to undefined function session_register() in /home/ssofts/public_html/lss/logoff.php on line 10
+[02-Jul-2015 00:24:44 America/Chicago] PHP Fatal error:  Call to undefined function session_register() in /home/ssofts/public_html/lss/logoff.php on line 10
+[02-Jul-2015 00:45:58 America/Chicago] PHP Fatal error:  Call to undefined function session_register() in /home/ssofts/public_html/lss/logoff.php on line 10
+[02-Jul-2015 02:27:40 America/Chicago] PHP Fatal error:  Call to undefined function session_register() in /home/ssofts/public_html/lss/logoff.php on line 10
+[03-Jul-2015 00:30:50 America/Chicago] PHP Fatal error:  Call to undefined function session_register() in /home/ssofts/public_html/lss/logoff.php on line 10
+[03-Jul-2015 00:33:48 America/Chicago] PHP Fatal error:  Call to undefined function session_register() in /home/ssofts/public_html/lss/logoff.php on line 10
+[03-Jul-2015 00:41:33 America/Chicago] PHP Fatal error:  Call to undefined function session_register() in /home/ssofts/public_html/lss/logoff.php on line 10
+[03-Jul-2015 00:41:45 America/Chicago] PHP Fatal error:  Call to undefined function session_register() in /home/ssofts/public_html/lss/logoff.php on line 10
+[03-Jul-2015 00:41:54 America/Chicago] PHP Fatal error:  Call to undefined function session_register() in /home/ssofts/public_html/lss/logoff.php on line 10
+[03-Jul-2015 00:42:32 America/Chicago] PHP Fatal error:  Call to undefined function session_register() in /home/ssofts/public_html/lss/logoff.php on line 10
+[03-Jul-2015 00:43:04 America/Chicago] PHP Fatal error:  Call to undefined function session_register() in /home/ssofts/public_html/lss/logoff.php on line 10
+[03-Jul-2015 00:43:46 America/Chicago] PHP Fatal error:  Call to undefined function session_register() in /home/ssofts/public_html/lss/logoff.php on line 10
+[03-Jul-2015 00:50:07 America/Chicago] PHP Fatal error:  Call to undefined function session_register() in /home/ssofts/public_html/lss/logoff.php on line 10
+[03-Jul-2015 00:55:11 America/Chicago] PHP Fatal error:  Call to undefined function session_register() in /home/ssofts/public_html/lss/logoff.php on line 10
+[03-Jul-2015 00:56:19 America/Chicago] PHP Fatal error:  Call to undefined function session_register() in /home/ssofts/public_html/lss/logoff.php on line 10
+[03-Jul-2015 07:05:44 America/Chicago] PHP Fatal error:  Call to undefined function session_register() in /home/ssofts/public_html/lss/logoff.php on line 10
+[03-Jul-2015 08:04:47 America/Chicago] PHP Fatal error:  Call to undefined function session_register() in /home/ssofts/public_html/lss/logoff.php on line 10
+[03-Jul-2015 08:10:35 America/Chicago] PHP Fatal error:  Call to undefined function session_register() in /home/ssofts/public_html/lss/logoff.php on line 10
+[03-Jul-2015 08:16:52 America/Chicago] PHP Fatal error:  Call to undefined function session_register() in /home/ssofts/public_html/lss/logoff.php on line 10
+[03-Jul-2015 08:35:40 America/Chicago] PHP Fatal error:  Call to undefined function session_register() in /home/ssofts/public_html/lss/logoff.php on line 10
+[04-Jul-2015 00:30:10 America/Chicago] PHP Fatal error:  Call to undefined function session_register() in /home/ssofts/public_html/lss/logoff.php on line 10
+[04-Jul-2015 00:40:48 America/Chicago] PHP Fatal error:  Call to undefined function session_register() in /home/ssofts/public_html/lss/logoff.php on line 10
+[04-Jul-2015 01:08:21 America/Chicago] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/ssofts/public_html/lss/create_employee_login.php:4) in /home/ssofts/public_html/lss/inc/check_session.php on line 4
+[04-Jul-2015 01:22:18 America/Chicago] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/ssofts/public_html/lss/create_employee_login.php:27) in /home/ssofts/public_html/lss/inc/check_session.php on line 4
+[04-Jul-2015 01:23:01 America/Chicago] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/ssofts/public_html/lss/create_employee_login.php:27) in /home/ssofts/public_html/lss/inc/check_session.php on line 4
+[04-Jul-2015 01:24:58 America/Chicago] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/ssofts/public_html/lss/create_employee_login.php:27) in /home/ssofts/public_html/lss/inc/check_session.php on line 4
+[04-Jul-2015 01:25:37 America/Chicago] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/ssofts/public_html/lss/create_employee_login.php:27) in /home/ssofts/public_html/lss/inc/check_session.php on line 4
+[04-Jul-2015 01:38:21 America/Chicago] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/ssofts/public_html/lss/create_employee_login.php:4) in /home/ssofts/public_html/lss/inc/check_session.php on line 4
+[04-Jul-2015 01:41:08 America/Chicago] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/ssofts/public_html/lss/create_employee_login.php:32) in /home/ssofts/public_html/lss/inc/check_session.php on line 4
+[04-Jul-2015 01:41:43 America/Chicago] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/ssofts/public_html/lss/create_employee_login.php:32) in /home/ssofts/public_html/lss/inc/check_session.php on line 4
+[04-Jul-2015 01:41:49 America/Chicago] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/ssofts/public_html/lss/create_employee_login.php:32) in /home/ssofts/public_html/lss/inc/check_session.php on line 4
+[04-Jul-2015 01:42:56 America/Chicago] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/ssofts/public_html/lss/create_employee_login.php:32) in /home/ssofts/public_html/lss/inc/check_session.php on line 4
+[04-Jul-2015 01:48:28 America/Chicago] PHP Fatal error:  Call to undefined function session_register() in /home/ssofts/public_html/lss/logoff.php on line 10
+[04-Jul-2015 02:12:06 America/Chicago] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/ssofts/public_html/lss/create_employee_login.php:29) in /home/ssofts/public_html/lss/inc/check_session.php on line 4
+[04-Jul-2015 02:18:48 America/Chicago] PHP Fatal error:  Call to undefined function session_register() in /home/ssofts/public_html/lss/logoff.php on line 10
+[04-Jul-2015 03:08:50 America/Chicago] PHP Fatal error:  Call to undefined function session_register() in /home/ssofts/public_html/lss/logoff.php on line 10
+[04-Jul-2015 03:09:16 America/Chicago] PHP Fatal error:  Call to undefined function session_register() in /home/ssofts/public_html/lss/logoff.php on line 10
+[04-Jul-2015 03:19:38 America/Chicago] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/ssofts/public_html/lss/index.php:1) in /home/ssofts/public_html/lss/index.php on line 2
+[04-Jul-2015 03:20:30 America/Chicago] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/ssofts/public_html/lss/index.php:1) in /home/ssofts/public_html/lss/index.php on line 2
+[04-Jul-2015 03:20:32 America/Chicago] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/ssofts/public_html/lss/index.php:1) in /home/ssofts/public_html/lss/index.php on line 2
+[04-Jul-2015 03:20:51 America/Chicago] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/ssofts/public_html/lss/index.php:1) in /home/ssofts/public_html/lss/index.php on line 2
+[04-Jul-2015 03:21:26 America/Chicago] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/ssofts/public_html/lss/index.php:1) in /home/ssofts/public_html/lss/index.php on line 2
+[04-Jul-2015 03:21:28 America/Chicago] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/ssofts/public_html/lss/index.php:1) in /home/ssofts/public_html/lss/index.php on line 2
+[04-Jul-2015 03:21:41 America/Chicago] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/ssofts/public_html/lss/index.php:1) in /home/ssofts/public_html/lss/index.php on line 2
+[04-Jul-2015 03:22:44 America/Chicago] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/ssofts/public_html/lss/index.php:1) in /home/ssofts/public_html/lss/index.php on line 2
+[04-Jul-2015 03:22:47 America/Chicago] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/ssofts/public_html/lss/index.php:1) in /home/ssofts/public_html/lss/index.php on line 2
+[04-Jul-2015 03:26:45 America/Chicago] PHP Parse error:  syntax error, unexpected ')' in /home/ssofts/public_html/lss/login_check.php on line 19
+[04-Jul-2015 03:34:57 America/Chicago] PHP Fatal error:  Call to undefined function session_register() in /home/ssofts/public_html/lss/logoff.php on line 10
+[04-Jul-2015 03:38:52 America/Chicago] PHP Fatal error:  Call to undefined function session_register() in /home/ssofts/public_html/lss/logoff.php on line 10
+[04-Jul-2015 04:05:59 America/Chicago] PHP Parse error:  syntax error, unexpected ')' in /home/ssofts/public_html/lss/changeuserpassword.php on line 28
+[04-Jul-2015 04:31:31 America/Chicago] PHP Fatal error:  Call to undefined function session_register() in /home/ssofts/public_html/lss/logoff.php on line 10
+[04-Jul-2015 04:31:31 America/Chicago] PHP Fatal error:  Call to undefined function session_register() in /home/ssofts/public_html/lss/logoff.php on line 10
+[04-Jul-2015 04:35:12 America/Chicago] PHP Fatal error:  Call to undefined function session_register() in /home/ssofts/public_html/lss/logoff.php on line 10
+[04-Jul-2015 04:35:21 America/Chicago] PHP Fatal error:  Call to undefined function session_register() in /home/ssofts/public_html/lss/logoff.php on line 10
+[04-Jul-2015 04:35:22 America/Chicago] PHP Fatal error:  Call to undefined function session_register() in /home/ssofts/public_html/lss/logoff.php on line 10
+[04-Jul-2015 05:00:23 America/Chicago] PHP Fatal error:  Call to undefined function session_register() in /home/ssofts/public_html/lss/logoff.php on line 10
+[04-Jul-2015 05:08:16 America/Chicago] PHP Fatal error:  Call to undefined function session_register() in /home/ssofts/public_html/lss/logoff.php on line 10
+[04-Jul-2015 05:10:48 America/Chicago] PHP Fatal error:  Call to undefined function session_register() in /home/ssofts/public_html/lss/logoff.php on line 10
+[04-Jul-2015 05:12:33 America/Chicago] PHP Fatal error:  Call to undefined function session_register() in /home/ssofts/public_html/lss/logoff.php on line 10
+[04-Jul-2015 05:13:18 America/Chicago] PHP Fatal error:  Call to undefined function session_register() in /home/ssofts/public_html/lss/logoff.php on line 10
+[04-Jul-2015 05:14:21 America/Chicago] PHP Fatal error:  Call to undefined function session_register() in /home/ssofts/public_html/lss/logoff.php on line 10
+[04-Jul-2015 05:24:16 America/Chicago] PHP Fatal error:  Call to undefined function session_register() in /home/ssofts/public_html/lss/logoff.php on line 10
+[04-Jul-2015 05:25:15 America/Chicago] PHP Fatal error:  Call to undefined function session_register() in /home/ssofts/public_html/lss/logoff.php on line 10
+[04-Jul-2015 05:30:47 America/Chicago] PHP Fatal error:  Call to undefined function session_register() in /home/ssofts/public_html/lss/logoff.php on line 10
+[04-Jul-2015 05:32:45 America/Chicago] PHP Fatal error:  Call to undefined function session_register() in /home/ssofts/public_html/lss/logoff.php on line 10
+[04-Jul-2015 05:34:54 America/Chicago] PHP Fatal error:  Call to undefined function session_register() in /home/ssofts/public_html/lss/logoff.php on line 10
+[04-Jul-2015 08:45:13 America/Chicago] PHP Fatal error:  Call to undefined function session_register() in /home/ssofts/public_html/lss/logoff.php on line 10
+[06-Jul-2015 00:43:50 America/Chicago] PHP Fatal error:  Call to undefined function session_register() in /home/ssofts/public_html/lss/logoff.php on line 10
+[06-Jul-2015 01:40:57 America/Chicago] PHP Fatal error:  Call to undefined function session_register() in /home/ssofts/public_html/lss/logoff.php on line 10
+[06-Jul-2015 02:19:18 America/Chicago] PHP Fatal error:  Call to undefined function session_register() in /home/ssofts/public_html/lss/logoff.php on line 10
+[06-Jul-2015 02:19:57 America/Chicago] PHP Fatal error:  Call to undefined function session_register() in /home/ssofts/public_html/lss/logoff.php on line 10
+[06-Jul-2015 02:29:20 America/Chicago] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/ssofts/public_html/lss/create_employee_login.php:10) in /home/ssofts/public_html/lss/inc/check_session.php on line 4
+[06-Jul-2015 02:31:08 America/Chicago] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/ssofts/public_html/lss/create_employee_login.php:9) in /home/ssofts/public_html/lss/inc/check_session.php on line 4
+[06-Jul-2015 02:31:10 America/Chicago] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/ssofts/public_html/lss/create_employee_login.php:9) in /home/ssofts/public_html/lss/inc/check_session.php on line 4
+[06-Jul-2015 02:31:13 America/Chicago] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/ssofts/public_html/lss/create_employee_login.php:9) in /home/ssofts/public_html/lss/inc/check_session.php on line 4
+[06-Jul-2015 07:45:59 America/Chicago] PHP Fatal error:  Call to undefined function session_register() in /home/ssofts/public_html/lss/logoff.php on line 10
+[06-Jul-2015 08:06:39 America/Chicago] PHP Fatal error:  Call to undefined function session_register() in /home/ssofts/public_html/lss/logoff.php on line 10
+[06-Jul-2015 08:22:56 America/Chicago] PHP Fatal error:  Call to undefined function session_register() in /home/ssofts/public_html/lss/logoff.php on line 10
+[06-Jul-2015 08:23:18 America/Chicago] PHP Fatal error:  Call to undefined function session_register() in /home/ssofts/public_html/lss/logoff.php on line 10
+[06-Jul-2015 08:37:27 America/Chicago] PHP Fatal error:  Call to undefined function session_register() in /home/ssofts/public_html/lss/logoff.php on line 10
+[07-Jul-2015 01:17:52 America/Chicago] PHP Parse error:  syntax error, unexpected '}' in /home/ssofts/public_html/lss/User_details.php on line 1491
+[07-Jul-2015 06:08:22 America/Chicago] PHP Fatal error:  Call to undefined function session_register() in /home/ssofts/public_html/lss/logoff.php on line 10
+[07-Jul-2015 06:08:55 America/Chicago] PHP Fatal error:  Call to undefined function session_register() in /home/ssofts/public_html/lss/logoff.php on line 10
+[07-Jul-2015 07:03:41 America/Chicago] PHP Fatal error:  Call to undefined function session_register() in /home/ssofts/public_html/lss/logoff.php on line 10
+[07-Jul-2015 07:04:16 America/Chicago] PHP Fatal error:  Call to undefined function session_register() in /home/ssofts/public_html/lss/logoff.php on line 10
+[07-Jul-2015 07:04:17 America/Chicago] PHP Fatal error:  Call to undefined function session_register() in /home/ssofts/public_html/lss/logoff.php on line 10
+[08-Jul-2015 01:50:33 America/Chicago] PHP Parse error:  syntax error, unexpected '?>' in /home/ssofts/public_html/lss/user_leave.php on line 146
+[08-Jul-2015 01:51:23 America/Chicago] PHP Parse error:  syntax error, unexpected '?>' in /home/ssofts/public_html/lss/user_leave.php on line 157
+[08-Jul-2015 05:11:45 America/Chicago] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home/ssofts/public_html/lss/user_leave.php on line 277
+[08-Jul-2015 05:20:20 America/Chicago] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home/ssofts/public_html/lss/user_leave.php on line 277
+[08-Jul-2015 05:58:08 America/Chicago] PHP Parse error:  syntax error, unexpected '$result' (T_VARIABLE) in /home/ssofts/public_html/lss/user_leave.php on line 281
+[08-Jul-2015 07:27:52 America/Chicago] PHP Parse error:  syntax error, unexpected ';' in /home/ssofts/public_html/lss/user_leave.php on line 286
+[08-Jul-2015 08:09:48 America/Chicago] PHP Parse error:  syntax error, unexpected '$emp_id' (T_VARIABLE) in /home/ssofts/public_html/lss/update_leave_ajax.php on line 3
+[08-Jul-2015 08:10:30 America/Chicago] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/ssofts/public_html/lss/update_leave_ajax.php on line 5
+[08-Jul-2015 08:10:30 America/Chicago] PHP Warning:  mysql_query(): Access denied for user 'ssofts'@'localhost' (using password: NO) in /home/ssofts/public_html/lss/update_leave_ajax.php on line 5
+[08-Jul-2015 08:10:30 America/Chicago] PHP Warning:  mysql_query(): A link to the server could not be established in /home/ssofts/public_html/lss/update_leave_ajax.php on line 5
+[08-Jul-2015 08:10:30 America/Chicago] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/ssofts/public_html/lss/update_leave_ajax.php on line 6
+[09-Jul-2015 01:00:03 America/Chicago] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/ssofts/public_html/lss/update_leave_ajax.php on line 71
+[09-Jul-2015 01:00:30 America/Chicago] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/ssofts/public_html/lss/update_leave_ajax.php on line 71
+[09-Jul-2015 01:13:55 America/Chicago] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/ssofts/public_html/lss/update_leave_ajax.php on line 74
+[09-Jul-2015 01:15:31 America/Chicago] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/ssofts/public_html/lss/update_leave_ajax.php on line 74
+[09-Jul-2015 01:15:56 America/Chicago] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/ssofts/public_html/lss/update_leave_ajax.php on line 74
+[09-Jul-2015 01:16:06 America/Chicago] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/ssofts/public_html/lss/update_leave_ajax.php on line 74
+[09-Jul-2015 01:19:38 America/Chicago] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/ssofts/public_html/lss/update_leave_ajax.php on line 74
+[09-Jul-2015 01:20:14 America/Chicago] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/ssofts/public_html/lss/update_leave_ajax.php on line 74
+[09-Jul-2015 01:21:31 America/Chicago] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/ssofts/public_html/lss/update_leave_ajax.php on line 74
+[09-Jul-2015 01:23:59 America/Chicago] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/ssofts/public_html/lss/update_leave_ajax.php on line 74
+[09-Jul-2015 01:25:13 America/Chicago] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/ssofts/public_html/lss/update_leave_ajax.php on line 74
+[09-Jul-2015 01:35:26 America/Chicago] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/ssofts/public_html/lss/update_leave_ajax.php on line 74
+[09-Jul-2015 01:35:37 America/Chicago] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/ssofts/public_html/lss/update_leave_ajax.php on line 74
+[09-Jul-2015 01:35:50 America/Chicago] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/ssofts/public_html/lss/update_leave_ajax.php on line 74
+[09-Jul-2015 01:36:08 America/Chicago] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/ssofts/public_html/lss/update_leave_ajax.php on line 74
+[09-Jul-2015 01:44:18 America/Chicago] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/ssofts/public_html/lss/update_leave_ajax.php on line 74
+[09-Jul-2015 05:12:08 America/Chicago] PHP Parse error:  syntax error, unexpected 'text' (T_STRING) in /home/ssofts/public_html/lss/update_leave_ajax.php on line 51
+[09-Jul-2015 05:12:19 America/Chicago] PHP Parse error:  syntax error, unexpected 'text' (T_STRING) in /home/ssofts/public_html/lss/update_leave_ajax.php on line 51
+[09-Jul-2015 05:12:23 America/Chicago] PHP Parse error:  syntax error, unexpected 'text' (T_STRING) in /home/ssofts/public_html/lss/update_leave_ajax.php on line 51
+[09-Jul-2015 05:12:25 America/Chicago] PHP Parse error:  syntax error, unexpected 'text' (T_STRING) in /home/ssofts/public_html/lss/update_leave_ajax.php on line 51
+[09-Jul-2015 05:12:25 America/Chicago] PHP Parse error:  syntax error, unexpected 'text' (T_STRING) in /home/ssofts/public_html/lss/update_leave_ajax.php on line 51
+[09-Jul-2015 05:12:26 America/Chicago] PHP Parse error:  syntax error, unexpected 'text' (T_STRING) in /home/ssofts/public_html/lss/update_leave_ajax.php on line 51
+[09-Jul-2015 05:13:37 America/Chicago] PHP Parse error:  syntax error, unexpected 'text' (T_STRING) in /home/ssofts/public_html/lss/update_leave_ajax.php on line 51
+[09-Jul-2015 05:14:10 America/Chicago] PHP Parse error:  syntax error, unexpected 'text' (T_STRING) in /home/ssofts/public_html/lss/update_leave_ajax.php on line 51
+[09-Jul-2015 07:00:50 America/Chicago] PHP Fatal error:  Call to undefined function session_register() in /home/ssofts/public_html/lss/logoff.php on line 10
+[09-Jul-2015 07:03:02 America/Chicago] PHP Fatal error:  Call to undefined function session_register() in /home/ssofts/public_html/lss/logoff.php on line 10
+[09-Jul-2015 07:14:09 America/Chicago] PHP Fatal error:  Call to undefined function session_register() in /home/ssofts/public_html/lss/logoff.php on line 10
+[10-Jul-2015 00:00:30 America/Chicago] PHP Fatal error:  Call to undefined function session_register() in /home/ssofts/public_html/lss/logoff.php on line 10
+[10-Jul-2015 00:00:53 America/Chicago] PHP Fatal error:  Call to undefined function session_register() in /home/ssofts/public_html/lss/logoff.php on line 10
+[10-Jul-2015 00:58:06 America/Chicago] PHP Fatal error:  Call to undefined function session_register() in /home/ssofts/public_html/lss/logoff.php on line 10
+[10-Jul-2015 01:04:13 America/Chicago] PHP Fatal error:  Call to undefined function session_register() in /home/ssofts/public_html/lss/logoff.php on line 10
+[10-Jul-2015 01:08:20 America/Chicago] PHP Fatal error:  Call to undefined function session_register() in /home/ssofts/public_html/lss/logoff.php on line 10
+[10-Jul-2015 01:08:43 America/Chicago] PHP Fatal error:  Call to undefined function session_register() in /home/ssofts/public_html/lss/logoff.php on line 10
+[10-Jul-2015 01:09:42 America/Chicago] PHP Fatal error:  Call to undefined function session_register() in /home/ssofts/public_html/lss/logoff.php on line 10
+[10-Jul-2015 01:13:14 America/Chicago] PHP Fatal error:  Call to undefined function session_register() in /home/ssofts/public_html/lss/logoff.php on line 10
+[10-Jul-2015 01:16:54 America/Chicago] PHP Fatal error:  Call to undefined function session_register() in /home/ssofts/public_html/lss/logoff.php on line 10
+[10-Jul-2015 01:26:32 America/Chicago] PHP Fatal error:  Call to undefined function session_register() in /home/ssofts/public_html/lss/logoff.php on line 10
+[10-Jul-2015 01:55:30 America/Chicago] PHP Fatal error:  Call to undefined function session_register() in /home/ssofts/public_html/lss/logoff.php on line 10
+[10-Jul-2015 02:06:01 America/Chicago] PHP Fatal error:  Call to undefined function session_register() in /home/ssofts/public_html/lss/logoff.php on line 10
+[10-Jul-2015 03:38:14 America/Chicago] PHP Fatal error:  Call to undefined function session_register() in /home/ssofts/public_html/lss/logoff.php on line 10
+[10-Jul-2015 03:40:57 America/Chicago] PHP Fatal error:  Call to undefined function session_register() in /home/ssofts/public_html/lss/logoff.php on line 10
+[10-Jul-2015 04:43:24 America/Chicago] PHP Fatal error:  Call to undefined function session_register() in /home/ssofts/public_html/lss/logoff.php on line 10
+[10-Jul-2015 04:44:08 America/Chicago] PHP Fatal error:  Call to undefined function session_register() in /home/ssofts/public_html/lss/logoff.php on line 10
+[10-Jul-2015 04:46:53 America/Chicago] PHP Fatal error:  Call to undefined function session_register() in /home/ssofts/public_html/lss/logoff.php on line 10
+[10-Jul-2015 04:54:54 America/Chicago] PHP Fatal error:  Call to undefined function session_register() in /home/ssofts/public_html/lss/logoff.php on line 10
+[13-Jul-2015 00:25:56 America/Chicago] PHP Fatal error:  Call to undefined function session_register() in /home/ssofts/public_html/lss/logoff.php on line 10
+[13-Jul-2015 00:26:10 America/Chicago] PHP Fatal error:  Call to undefined function session_register() in /home/ssofts/public_html/lss/logoff.php on line 10
+[13-Jul-2015 02:46:36 America/Chicago] PHP Fatal error:  Call to undefined function session_register() in /home/ssofts/public_html/lss/logoff.php on line 10
+[13-Jul-2015 03:16:11 America/Chicago] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/ssofts/public_html/lss/add_designation_leave.php on line 221
+[13-Jul-2015 03:19:44 America/Chicago] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/ssofts/public_html/lss/add_designation_leave.php on line 221
+[13-Jul-2015 04:05:48 America/Chicago] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, null given in /home/ssofts/public_html/lss/employee_list.php on line 84
+[13-Jul-2015 07:11:25 America/Chicago] PHP Parse error:  syntax error, unexpected '$pf_number' (T_VARIABLE) in /home/ssofts/public_html/lss/pf_detail.php on line 12
+[13-Jul-2015 08:31:21 America/Chicago] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, null given in /home/ssofts/public_html/lss/get-emp-by-typ.php on line 21
+[13-Jul-2015 08:31:26 America/Chicago] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, null given in /home/ssofts/public_html/lss/get-emp-by-typ.php on line 21
+[13-Jul-2015 08:31:29 America/Chicago] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, null given in /home/ssofts/public_html/lss/get-emp-by-typ.php on line 21
+[13-Jul-2015 08:31:32 America/Chicago] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, null given in /home/ssofts/public_html/lss/get-emp-by-typ.php on line 21
+[13-Jul-2015 08:31:34 America/Chicago] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, null given in /home/ssofts/public_html/lss/get-emp-by-typ.php on line 21
+[13-Jul-2015 08:31:36 America/Chicago] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, null given in /home/ssofts/public_html/lss/get-emp-by-typ.php on line 21
+[13-Jul-2015 08:31:38 America/Chicago] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, null given in /home/ssofts/public_html/lss/get-emp-by-typ.php on line 21
+[13-Jul-2015 08:31:40 America/Chicago] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, null given in /home/ssofts/public_html/lss/get-emp-by-typ.php on line 21
+[13-Jul-2015 08:31:42 America/Chicago] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, null given in /home/ssofts/public_html/lss/get-emp-by-typ.php on line 21
+[13-Jul-2015 08:31:42 America/Chicago] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, null given in /home/ssofts/public_html/lss/get-emp-by-typ.php on line 21
+[13-Jul-2015 08:31:42 America/Chicago] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, null given in /home/ssofts/public_html/lss/get-emp-by-typ.php on line 21
+[13-Jul-2015 08:31:42 America/Chicago] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, null given in /home/ssofts/public_html/lss/get-emp-by-typ.php on line 21
+[13-Jul-2015 08:31:43 America/Chicago] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, null given in /home/ssofts/public_html/lss/get-emp-by-typ.php on line 21
+[13-Jul-2015 08:31:43 America/Chicago] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, null given in /home/ssofts/public_html/lss/get-emp-by-typ.php on line 21
+[13-Jul-2015 08:31:43 America/Chicago] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, null given in /home/ssofts/public_html/lss/get-emp-by-typ.php on line 21
+[13-Jul-2015 08:31:43 America/Chicago] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, null given in /home/ssofts/public_html/lss/get-emp-by-typ.php on line 21
+[13-Jul-2015 08:31:43 America/Chicago] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, null given in /home/ssofts/public_html/lss/get-emp-by-typ.php on line 21
+[13-Jul-2015 08:31:51 America/Chicago] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, null given in /home/ssofts/public_html/lss/get-emp-by-typ.php on line 21
+[13-Jul-2015 08:31:53 America/Chicago] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, null given in /home/ssofts/public_html/lss/get-emp-by-typ.php on line 21
+[13-Jul-2015 08:31:54 America/Chicago] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, null given in /home/ssofts/public_html/lss/get-emp-by-typ.php on line 21
+[13-Jul-2015 08:31:54 America/Chicago] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, null given in /home/ssofts/public_html/lss/get-emp-by-typ.php on line 21
+[13-Jul-2015 08:31:55 America/Chicago] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, null given in /home/ssofts/public_html/lss/get-emp-by-typ.php on line 21
+[13-Jul-2015 08:31:56 America/Chicago] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, null given in /home/ssofts/public_html/lss/get-emp-by-typ.php on line 21
+[13-Jul-2015 08:31:59 America/Chicago] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, null given in /home/ssofts/public_html/lss/get-emp-by-typ.php on line 21
+[13-Jul-2015 09:54:32 America/Chicago] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/ssofts/public_html/lss/add_designation_leave.php on line 221
+[14-Jul-2015 02:03:53 America/Chicago] PHP Parse error:  syntax error, unexpected end of file in /home/ssofts/public_html/lss/load/load_realeaved_first.php on line 84
+[14-Jul-2015 05:36:10 America/Chicago] PHP Parse error:  syntax error, unexpected '$sql_check' (T_VARIABLE) in /home/ssofts/public_html/lss/change_department_edit.php on line 23

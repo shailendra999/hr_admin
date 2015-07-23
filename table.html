@@ -1,0 +1,240 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>Tablet</title>
+</head>
+<style type="text/css">
+.table{border: !important; font-family:calibri;}
+.table tr th{border:solid 0.1px #000 !important;}
+.table tr td{border-color:#000; border-style:solid; border-width:0.1px !important}
+.table tr th h2{padding-left:10px;}
+.table tr th h3{padding-left:10px;}
+.table tr td{padding-left:10px;}
+</style>
+<script>
+function test()
+{
+	var basic = document.getElementById('basic').value;
+	var basic_annum = document.getElementById('basic_annum').value;
+	var hra = document.getElementById('hra').value;
+	var hra_annum = document.getElementById('hra_annum').value;
+	var conveynce = document.getElementById('conveynce').value;
+	var conveynce_annum = document.getElementById('conveynce_annum').value;
+	var special= document.getElementById('special').value;
+	var special_annum= document.getElementById('special_annum').value;
+	var telephone= document.getElementById('telephone').value;
+	var telephone_annum= document.getElementById('telephone_annum').value;
+	var other= document.getElementById('other').value;
+	var other_annum= document.getElementById('other_annum').value;
+	var pf = document.getElementById('pf').value;
+	var pf_annum = document.getElementById('pf_annum').value;
+	var esic= document.getElementById('esic').value;
+	var esic_annum= document.getElementById('esic_annum').value;
+	var takehome =document.getElementById('takehome').value;
+	var takehome_annum =document.getElementById('takehome_annum').value;
+	var bonus =document.getElementById('bonus').value;
+	var bonus_annum =document.getElementById('bonus_annum').value;
+	
+	document.getElementById('bonus_annum').value = parseInt(bonus)*12;
+	
+	document.getElementById('subtotal').value = parseInt(takehome)+parseInt(bonus);
+	 
+	 document.getElementById('subtotal_annum').value=document.getElementById('takehome_annum').value+
+	 document.getElementById('bonus_annum').value;
+		
+	document.getElementById('gross').value=parseInt(basic)+parseInt(hra)+parseInt(conveynce)+parseInt(special)+parseInt(telephone)+parseInt(other);
+		document.getElementById('gross_annum').value=parseInt(basic_annum)+parseInt(hra_annum)+parseInt(conveynce_annum)+parseInt(special_annum)+parseInt(telephone_annum)+parseInt(other_annum);
+			
+			document.getElementById('total').value=parseInt(pf)+parseInt(esic);
+			document.getElementById('total_annum').value=parseInt(pf_annum)+parseInt(esic_annum);
+		
+			document.getElementById('takehome').value=document.getElementById('gross').value-document.getElementById('total').value;
+document.getElementById('takehome_annum').value=document.getElementById('gross_annum').value-document.getElementById('total_annum').value;
+
+		
+	
+	document.getElementById('basic_annum').value = parseInt(basic)*12;
+	document.getElementById('hra_annum').value = parseInt(hra)*12;
+	document.getElementById('conveynce_annum').value = parseInt(conveynce)*12;
+	document.getElementById('special_annum').value = parseInt(special)*12;
+	document.getElementById('telephone_annum').value = parseInt(telephone)*12;
+	document.getElementById('other_annum').value = parseInt(other)*12;
+	document.getElementById('pf').value = parseInt(basic)*12/100;
+	document.getElementById('pf_annum').value = parseInt(basic_annum)*12/100;
+	document.getElementById('esic_annum').value = parseInt(esic)*12;
+	document.getElementById('subtotal_annum').value = parseInt(subtotal)*12;
+	
+	
+	
+	
+	
+	
+}
+</script>
+<body>
+<table width="800" border="0" align="center" cellpadding="0" cellspacing="0" class="table">
+  <tr>
+    <th width="349" height="40" align="left" valign="middle" scope="col"><h2>Elements</h2></th>
+    <th width="25" scope="col">&nbsp;</th>
+    <th width="188" align="left" valign="middle" scope="col"><h3>Monthly (Rs)</h3></th>
+    <th width="188" align="left" valign="middle" scope="col"><h3>Per Annum (Rs)</h3></th>
+  </tr>
+  <tr>
+    <td height="30">&nbsp;</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+  </tr>
+  <tr>
+    <td height="30"><h2>Fixed Compensation</h2></td>
+    <td>:</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+  </tr>
+  <tr>
+    <td height="30">Basic</td>
+    <td>:</td>
+    <td align="left" valign="middle"><input type="text" name="Basic_Monthly" id="basic" /></td>
+    <td><input type="text" name="Basic_Annum" id="basic_annum" onblur="test()" /></td>
+  </tr>
+  <tr>
+    <td height="30">HRA</td>
+    <td>:</td>
+    <td><input type="text" name="HRA_Monthly" id="hra" /></td>
+    <td><input type="text" name="HRA_Annum" id="hra_annum" onblur="test()"/></td>
+  </tr>
+  <tr>
+    <td height="30">Conveyance</td>
+    <td>:</td>
+    <td><input type="text" name="Conveyance_Monthly" id="conveynce" /></td>
+    <td><input type="text" name="Conveyance_Annum" id="conveynce_annum" onblur="test()" /></td>
+  </tr>
+  <tr>
+    <td height="30">Special Allowance</td>
+    <td>:</td>
+    <td><input type="text" name="Special_Monthly" id="special" /></td>
+    <td><input type="text" name="Special_Annum" id="special_annum" onblur="test()" /></td>
+  </tr>
+  <tr>
+    <td height="30">Telephone Reimbrushment</td>
+    <td>:</td>
+    <td><input type="text" name="Telephone_Monthly" id="telephone" /></td>
+    <td><input type="text" name="Telephone_Annum" id="telephone_annum" onblur="test()"/></td>
+  </tr>
+  <tr>
+    <td height="30">Other's</td>
+    <td>:</td>
+    <td><input type="text" name="Other's_Monthly" id="other" /></td>
+    <td><input type="text" name="Other's_Annum" id="other_annum" onblur="test()"/></td>
+  </tr>
+  <tr>
+    <td height="30"><h2>(A) Gross salary</h2> </td>
+    <td>:</td>
+    <td><input type="text" name="Gross_Monthly" id="gross" onblur="test()" /></td>
+    <td><input type="text" name="Gross_Annum" id="gross_annum" onblur="test()" /></td>
+  </tr>
+  <tr>
+    <td height="30"><h2>(B) Employee Contribution</h2></td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+  </tr>
+  <tr>
+    <td height="30">PF</td>
+    <td>:</td>
+    <td><input type="text" name="PF_Monthly" id="pf" onblur="test()" /></td>
+    <td><input type="text" name="PF_Annum" id="pf_annum" onblur="test()"/></td>
+  </tr>
+  <tr>
+    <td height="30">ESIC</td>
+    <td>:</td>
+    <td><input type="text" name="ESIC_Monthly" id="esic" onblur="test()"/></td>
+    <td><input type="text" name="Other's_Annum" id="esic_annum" onblur="test()" /></td>
+  </tr>
+  <tr>
+    <td height="30"><h3>Total Contribution</h3></td>
+    <td>:</td>
+    <td><input type="text" name="Total_Monthly" id="total" onblur="test()"/></td>
+    <td><input type="text" name="Total_Annum" id="total_annum" onblur="test()" /></td>
+  </tr>
+  <tr bgcolor="#FFFF00">
+    <td height="30"><h3>Take Home</h3></td>
+    <td>:</td>
+    <td><input type="text" name="Take_Monthly" id="takehome" onblur="test()" /></td>
+    <td><input type="text" name="Take_Annum" id="takehome_annum" onblur="test()" /></td>
+  </tr>
+  <tr>
+    <td height="30"><b>(C)</b> Bonus / Ex-gretia (Annually)</td>
+    <td>:</td>
+    <td><input type="text" name="Bonus_Monthly" id="bonus"/></td>
+    <td><input type="text" name="Bonus_Annum" id="bonus_annum" /></td>
+  </tr>
+  <tr>
+    <td height="30"><h3>Sub Total</h3></td>
+    <td>:</td>
+    <td><input type="text" name="Sub_Monthly" id="subtotal" onblur="test()" /></td>
+    <td><input type="text" name="Sub_Annum" id="subtotal_annum" onblur="test()" /></td>
+  </tr>
+  <tr>
+    <td height="30"><h2>(D) Employer Contribution</h2></td>
+    <td>:</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+  </tr>
+  <tr>
+    <td height="30">PF</td>
+    <td>:</td>
+    <td><input type="text" name="PF_Monthly" /></td>
+    <td><input type="text" name="PF_Annum" /></td>
+  </tr>
+  <tr>
+    <td height="30">ESIC</td>
+    <td>:</td>
+    <td><input type="text" name="ESIC_Monthly" /></td>
+    <td><input type="text" name="ESIC_Annum" /></td>
+  </tr>
+  <tr>
+    <td height="30">Mediclaim/Insurance</td>
+    <td>:</td>
+    <td><input type="text" name="Mediclaim_Monthly" /></td>
+    <td><input type="text" name="Mediclaim_Annum" /></td>
+  </tr>
+  <tr>
+    <td height="30">Gratuity</td>
+    <td>:</td>
+    <td><input type="text" name="Gratuity_Monthly" /></td>
+    <td><input type="text" name="Gratuity_Annum" /></td>
+  </tr>
+  <tr>
+    <td height="30">Other's</td>
+    <td>:</td>
+    <td><input type="text" name="Gratuity_Monthly" /></td>
+    <td><input type="text" name="Gratuity_Annum" /></td>
+  </tr>
+  <tr>
+    <td height="30"><h3>Sub Total</h3></td>
+    <td>:</td>
+    <td><input type="text" name="Sub_Monthly" /></td>
+    <td><input type="text" name="Sub_Annum" /></td>
+  </tr>
+  <tr>
+    <td height="30"><b>(E)</b> Loyalty Allowance / Performance Allowance</td>
+    <td>:</td>
+    <td><input type="text" name="Loyalty_Monthly" /></td>
+    <td><input type="text" name="Loyalty_Annum" /></td>
+  </tr>
+  <tr>
+    <td height="30">Grand Total</td>
+    <td>:</td>
+    <td rowspan="2"><input type="text" name="Total_Monthly" /></td>
+    <td>&nbsp;</td>
+  </tr>
+  <tr>
+    <td height="30">Total CTC : (A+D+E)</td>
+    <td>:</td>
+    <td><input type="text" name="Total_Annum" /></td>
+  </tr>
+</table>
+</body>
+</html>

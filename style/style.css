@@ -1,0 +1,229 @@
+@charset "utf-8";
+/* CSS Document */
+body
+{
+	margin:0;
+	padding:0;
+	vertical-align:top;
+}
+fieldset
+{
+	-moz-border-radius: 5px;
+}
+td{
+	font-family:Verdana, Arial, Helvetica, sans-serif;
+	font-size:12px;
+	color:#233866;
+	vertical-align:top;
+	padding-top:0px;
+}
+.headerbg {
+	background-image:url(../images/header_bg.jpg);
+	background-repeat:no-repeat;
+	width:654px;
+	height:109px;
+}
+.top_tnb {
+	background-image:url(../images/black_bg.jpg);
+	background-repeat:repeat-x;
+	width:100%;
+	height:34px;
+	text-align:center;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:12px;
+	color:#CCCCCC;
+	line-height:30px;
+}
+.top_tnb a {
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:12px;
+	color:#CCCCCC;
+	line-height:30px;
+	text-decoration:none;
+}
+.top_tnb a:hover {
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:12px;
+	color:#FFFFFF;
+	line-height:30px;
+	text-decoration:none;
+}
+.header_menu
+{
+	color:#233866;
+	background-color:#C8D9E8;	
+}
+.login_bg
+{
+	margin:5px;
+	background-color:#DFEAF7;
+}
+.headingSmall
+{
+ 	font-family:Verdana, Arial, Helvetica, sans-serif;
+	font-size:11px;
+	color:#233866;
+	text-align:right;
+	line-height:20px;
+	vertical-align:top;
+	border-bottom:1px solid #FFFFFF;
+	padding-right:10px;
+	padding-top:2px;
+	font-weight:bold;
+}
+.links
+{
+	font-family:Trebuchet MS;
+	font-size:12px;
+	color:#333333;
+	line-height:25px;
+	text-decoration:none;
+}
+.links a 
+{
+	font-family:Trebuchet MS;
+	font-size:12px;
+	color:#333333;
+	line-height:30px;
+	text-decoration:none;
+}
+.links a:hover
+{
+	font-family:Trebuchet MS;
+	font-size:12px;
+	color:#990000;
+	line-height:30px;
+	text-decoration:none;
+}
+.tableborder
+{
+ 	border:#DFEAF7 solid 2px;
+}
+.heading
+{
+	font-family:Verdana, Arial, Helvetica, sans-serif;
+	font-size:13px;
+	color:#233866;
+	text-align:center;
+	line-height:20px;
+	vertical-align:top;
+	border-bottom:1px solid #FFFFFF;
+	padding-top:2px;
+	font-weight:bold;
+}
+.red {
+	font-family:Verdana, Arial, Helvetica, sans-serif;
+	font-size:10px;
+	color:#CC0000;
+	vertical-align:top;
+	text-align:center;
+	line-height:20px;
+}
+.navigation_row {
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:12px;
+	line-height:20px;
+}
+.navigation_row a
+{
+	color:#233866;
+	font:Verdana;
+	font-size:12px;
+	margin: 5px;
+	text-decoration:none;
+}
+.navigation_row a:hover
+{
+	color:#233866;
+	font:Verdana;
+	font-size:12px;
+	margin: 5px;
+	text-decoration:underline;
+}
+.table1
+{
+   
+	border-width:1px 1px 1px 1px; 
+	border-spacing:2px;
+	border-left-style:solid solid solid solid; 
+	border-color:#DFEAF7 #DFEAF7 #DFEAF7 #DFEAF7;
+	border-collapse:collapse;
+}
+#overlay 
+{
+	 margin:0px;
+	 font-family:Verdana, Arial, Helvetica, sans-serif;
+	 font-size:11px;
+	 padding:0px;
+	 visibility: hidden;
+     position: absolute;
+     left: 0px;
+     top: 0px;
+     width:100%;
+     height:100%;
+     text-align:center;
+     z-index: 1000;
+     background-image:url(../images/overlay_light.png);
+}
+#overlay div
+{
+   	 font-family:Verdana, Arial, Helvetica, sans-serif;
+	 font-size:11px;
+	 width:300px;
+	 height:100px;
+     margin: 300px auto;
+	 background-color: #C1D1EA;
+     border:1px solid #8499AE;
+     padding:15px;
+     text-align:center;
+}
+.AddMore {
+	font-family:Verdana, Arial, Helvetica, sans-serif;
+	font-size:10px;
+	color:#233866;
+	text-align:right;
+	line-height:20px;
+	font-weight:normal;
+	text-decoration:none;
+}
+.AddMore a {
+	font-family:Verdana, Arial, Helvetica, sans-serif;
+	font-size:10px;
+	color:#233866;
+	text-align:right;
+	font-weight:bold;
+	text-decoration:none;
+}
+.AddMore a:hover {
+	font-family:Verdana, Arial, Helvetica, sans-serif;
+	font-size:10px;
+	color:#993366;
+	text-align:right;
+	font-weight:bold;
+	text-decoration:none;
+}
+.delete {
+	font-family:Verdana, Arial, Helvetica, sans-serif;
+	font-size:10px;
+	color:#233866;
+	text-align:right;
+	line-height:20px;
+	font-weight:normal;
+	text-decoration:none;
+}
+.delete a {
+	font-family:Verdana, Arial, Helvetica, sans-serif;
+	font-size:10px;
+	color:#233866;
+	text-align:right;
+	font-weight:bold;
+	text-decoration:none;
+}
+.delete a:hover {
+	font-family:Verdana, Arial, Helvetica, sans-serif;
+	font-size:10px;
+	color:#993366;
+	text-align:right;
+	font-weight:bold;
+	text-decoration:none;
+}

@@ -1,0 +1,22 @@
+<? include("inc/dbconnection.php");?>
+<?
+if(isset($_GET['getBuyerByLetters']) && isset($_GET['letters'])){
+	$letters = $_GET['letters'];
+	$letters = preg_replace("/[^a-z0-9 ]/si","",$letters);
+	 $sql = "select rec_id ,BuyerName,BuyerType from ".$mysql_adm_table_prefix."buyer_master where BuyerName like '".$letters."%' and BuyerName!=''";
+	$res = mysql_query($sql) or die("Error in Query : ".$sql."<br/>".mysql_errno()."<br/>".mysql_error());
+	
+	#echo "1###select ID,countryName from ajax_countries where countryName like '".$letters."%'|";
+	if(mysql_num_rows($res)>0)
+	{
+		while($inf = mysql_fetch_array($res))
+		{
+			echo $inf["rec_id"]."###".$inf["BuyerType"]."###".$inf["BuyerName"]."|";
+		}	
+	}
+	else
+	{
+		echo "No Record Found";
+	}		
+}
+?>

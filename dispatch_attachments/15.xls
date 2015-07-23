@@ -1,0 +1,205 @@
+<style type="text/css">
+.headingSmallPrint
+{
+ 	font-family:Verdana, Arial, Helvetica, sans-serif;
+	font-size:15px;
+	color:#000000;
+	text-align:center;
+	line-height:15px;
+	vertical-align:top;
+	padding-right:10px;
+	padding-top:thin;
+	font-weight:bold;
+}
+.print_text {
+	font-family:Verdana, Arial, Helvetica, sans-serif;
+	font-size:12px;
+	color:#000000;
+	text-align:left;
+	padding-left:5px;
+	line-height:15px;
+}
+.print_smalltext {
+	font-family:Verdana, Arial, Helvetica, sans-serif;
+	font-size:9px;
+	color:#000000;
+	text-align:left;
+	padding-left:5px;
+	line-height:15px;
+}
+.print_border {
+	border:#000000 solid thin;
+}
+.left_padding {
+ padding-left:5px;
+ }
+</style>
+<body>
+<table align="center" cellpadding="1" cellspacing="1" width="700" style="border:#000000 solid thin;">
+  <tr>
+    <td colspan="7" style="border-bottom:#000000 solid thin">
+    	<div align="center">
+        	<span class="headingSmallPrint" style="font-size:18px;"><b>MAHIMA PURESPUN</b></span><br/>
+        	<span class="print_smalltext"><b>(A UNIT OF MAHIMA FIBERS PVT. LTD.)</b></span><br/>
+        	<span class="print_smalltext"><b>PLOT NO. 73-74, SECTOR-II, PITHAMPUR, DIST-DHAR</b></span><br/>
+      		<span class="print_smalltext"><b>PHONE NO : 07292-416323 FAX : 07290-252985 EMAIL: Mahima_mill@rediffmail.com</b></span><br/>
+            <span class="print_smalltext"><b>VAT TIN Number: 23390904470M</b></span>
+        </div>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="7" style="border-bottom:#000000 solid thin">
+    	<div align="center">
+                <span class="print_text"><b>Regd. Off : 202, Kuber House, 162, Kanchan Bag, Indore-01</b></span><br/>
+                <span class="print_text"><b>Phone No.: 0731-2521021, 4066642-43 Fax No.: 0731-2529556, email id :- mahimaaccounts@gmail.com</b></span>
+        </div>
+	</td>
+  </tr>
+  <tr>
+    <td colspan="3" style="border-bottom:#000000 solid thin;border-right:#000000 solid thin;" valign="top">
+    	
+        
+        <table align="center" width="100%" cellpadding="0" cellspacing="0">
+            <tr>
+                <td width="12%" valign="top" class="print_text">Buyer</td>
+                <td width="3%" valign="top" class="print_text">:</td>
+                <td width="85%" valign="top" class="print_text"><b>INDIGO IMPEX </b><br/>HR - 29E, GROUND FLOOR, PUL PRAHLAD PUR NEAR OM SHANTI BAVAN, 60 FT ROAD <br/><b>India</b></td>
+            </tr>
+            <tr>
+                <td class="print_text">TIN No</td>
+                <td class="print_text">:</td>
+                <td class="print_text"><b></b></td>
+            </tr>
+        </table>      
+    </td>
+    <td colspan="4" style="border-bottom:#000000 solid thin" valign="top">
+    	<table width="100%" style="vertical-align:top;">
+        	<tr>
+            	<td>&nbsp;</td>
+                <td>&nbsp;</td>
+            	<td align="left" valign="top" style="font-size:14px;"><div class="headingSmallPrint"><b>YARN INVOICE</b></div></td>
+           </tr>
+            <tr>
+            	<td width="18%" class="print_text" style="border-top:#000000 solid thin" valign="top"><b>INVOICE NO.</b></td>
+          		<td width="3%" valign="top"><div align="center">:</div></td>
+              	<td width="79%" class="print_text" style="border-top:#000000 solid thin;" valign="top"><b>MP/DI/09-10/1024</b></td>
+          	</tr>
+            <tr>
+            	<td class="print_text" style="border-bottom:#000000 solid thin;" valign="top"><b>DATED</b></td>
+                <td valign="top"><div align="center">:</div></td>
+              	<td width="79%" valign="top" align="left" style="border-bottom:#000000 solid thin;"><span class="print_text"><b>22-09-2010</b></span></td>
+            </tr>
+            <tr>
+            	<td align="center"><span class="print_text">Transport</span></td>
+                <td><div align="center">:</div></td>
+              	<td class="print_text"><b>SONU FREIGHT</b></td>
+            </tr>
+            <tr>
+            	<td align="center"><span class="print_text">Vechile NO</span></td>
+                <td><div align="center">:</div></td>
+              	<td class="print_text"><b>MP09-CE-1560</b></td>
+            </tr>
+            <tr>
+            	<td align="center"><span class="print_text">LR NO</span></td>
+                <td><div align="center">:</div></td>
+              	<td class="print_text"><b>310</b></td>
+            </tr>
+            <tr>
+            	<td align="center"><span class="print_text">LR Date</span></td>
+                <td><div align="center">:</div></td>
+                <td class="print_text"><b>2010-09-22</b></td>
+            </tr>
+            <tr>
+            	<td align="center"><span class="print_text">Order No</span></td>
+                <td><div align="center">:</div></td>
+              	<td class="print_text"><b></b></td>
+            </tr>
+            <tr>
+            	<td align="center"><span class="print_text">Other Ref</span></td>
+                <td><div align="center">:</div></td>
+              	<td class="print_text"><b>AG-CFORM</b></td>
+            </tr>
+        </table>
+    </td>
+  </tr>
+  <tr>
+    <td width="54" align="center" style="border-bottom:#000000 solid thin;border-right:#000000 solid thin;"><span class="print_text"><b>S.No.</b></span></td>
+    <td width="310" align="center" style="border-bottom:#000000 solid thin;border-right:#000000 solid thin;" colspan="2"><span class="print_text"><b>Description &amp; Marking of Goods</b></span></td>
+    <td width="69" align="center" style="border-bottom:#000000 solid thin;border-right:#000000 solid thin;"><span class="print_text"><b>No. of PACKS</b></span></td>
+    <td width="88" align="center" style="border-bottom:#000000 solid thin;border-right:#000000 solid thin;"><span class="print_text"><b>TOTAL QTY/KGS</b></span></td>
+    <td width="76" align="center" style="border-bottom:#000000 solid thin;border-right:#000000 solid thin;"><span class="print_text"><b>RATE/KG</b></span></td>
+    <td width="80" align="center" style="border-bottom:#000000 solid thin;"><span class="print_text"><b>AMOUNT (Rs.)</b></span></td>
+  </tr>
+  
+  <tr>
+    <td align="center" valign="top" height="120" style="border-bottom:#000000 solid thin;border-right:#000000 solid thin;"><span class="print_text">1</span></td>
+    <td class="print_text" valign="top" style="border-bottom:#000000 solid thin;border-right:#000000 solid thin;"><b></b>&nbsp;COTTON YARN</td>
+    <td style="border-bottom:#000000 solid thin;border-right:#000000 solid thin;">&nbsp;</td>
+    <td valign="top" style="border-right:#000000 solid thin;border-bottom:#000000 solid thin;" class="print_text">&nbsp;</td>
+    <td valign="top" style="border-right:#000000 solid thin;border-bottom:#000000 solid thin;" align="center"><span class="print_text">0 KGS</span></td>
+    <td align="right" style="padding-right:5px;vertical-align:top;border-bottom:#000000 solid thin;;border-right:#000000 solid thin;"><span class="print_text"></span></td>
+    <td align="right" style="padding-right:5px;vertical-align:top;border-bottom:#000000 solid thin;"><span class="print_text"></span></td>
+  </tr>
+  
+  <tr>
+    <td align="center" valign="top" height="120" style="border-bottom:#000000 solid thin;border-right:#000000 solid thin;"><span class="print_text">2</span></td>
+    <td class="print_text" valign="top" style="border-bottom:#000000 solid thin;border-right:#000000 solid thin;"><b></b>&nbsp;COTTON YARN</td>
+    <td style="border-bottom:#000000 solid thin;border-right:#000000 solid thin;">&nbsp;</td>
+    <td valign="top" style="border-right:#000000 solid thin;border-bottom:#000000 solid thin;" class="print_text">&nbsp;</td>
+    <td valign="top" style="border-right:#000000 solid thin;border-bottom:#000000 solid thin;" align="center"><span class="print_text">0 KGS</span></td>
+    <td align="right" style="padding-right:5px;vertical-align:top;border-bottom:#000000 solid thin;;border-right:#000000 solid thin;"><span class="print_text"></span></td>
+    <td align="right" style="padding-right:5px;vertical-align:top;border-bottom:#000000 solid thin;"><span class="print_text"></span></td>
+  </tr>
+  
+  <tr>
+    <td style="border-bottom:#000000 solid thin;border-right:#000000 solid thin;">&nbsp;</td>
+    <td align="right" style="border-bottom:#000000 solid thin;border-right:#000000 solid thin;"><span class="print_text"><b></b>&nbsp;</span></td>
+    <td align="right" style="border-bottom:#000000 solid thin;border-right:#000000 solid thin;"><span class="print_text"><b>Total :</b>&nbsp;</span></td>
+    <td align="center" style="border-bottom:#000000 solid thin;border-right:#000000 solid thin;"><span class="print_text"><b></b></span>&nbsp;</td>
+    <td style="border-bottom:#000000 solid thin;border-right:#000000 solid thin;">&nbsp;</td>
+    <td align="right" style="border-bottom:#000000 solid thin;;border-right:#000000 solid thin;"><span class="print_text"><b></b></span>&nbsp;</td>
+    <td align="right" style="border-bottom:#000000 solid thin;;border-right:#000000 solid thin;"><span class="print_text"><b>
+    &nbsp;</b></span>&nbsp;</td>
+  </tr>
+  <tr>
+    <td colspan="3" style="border-bottom:#000000 solid thin;border-right:#000000 solid thin;">
+    	<p class="print_text"><b>Bank Details: State Bank Of Mysore, Account No.-64001674621</b></p>
+    	<p class="print_text"><b>TERMS &amp; CONDITIONS:</b></p>
+        <ol>
+              <li class="print_smalltext">Subject to Indore Jurisdiction.</li>
+              <li class="print_smalltext">We are not responsible for any loss or damage in transit.</li>
+              <li class="print_smalltext">Overdue Amount will attract 15% interest from due date.</li>	
+              <li class="printprint_smalltext_text">If any running fault is noticed,Please inform with first roll at once.We will accept only one roll as defective.</li>
+              <li class="print_smalltext">Payment against Delivery.</li>
+        </ol>
+    </td>
+    <td colspan="2" valign="top" class="print_text" style="border-bottom:#000000 solid thin;border-right:#000000 solid thin;"> 
+    	C.S.T.<br/>
+    	Freight On Sales
+	</td>
+    <td valign="top" align="center" style="border-bottom:#000000 solid thin;border-right:#000000 solid thin;"><span class="print_text">2%</span></td>
+    <td valign="top" align="right" style="border-bottom:#000000 solid thin;"><span class="print_text">
+    </span><br/>
+    <span class="print_text">500</span></td>
+  </tr>
+  <tr>
+    <td colspan="6" align="right" style="padding-right:40px;border-bottom:#000000 solid thin;"><span class="print_text">Total Amount :</span></td>
+    <td align="right" style="border-bottom:#000000 solid thin;"><span class="print_text"><b>
+    </b></span></td>
+  </tr>
+  <tr>
+    <td colspan="7" class="print_text" style="border-bottom:#000000 solid thin;"><b>Rs. Zero Rupee Only</b></td>
+  </tr>
+  <tr>
+    <td colspan="6" class="print_text"><b>Delivery at :</b>
+    <span></span><br/><br/>
+    <span><b>Prepared By</b></span>
+    <span style="padding-left:150px;"><b>Checked By</b></span>
+    <span style="text-align:right;padding-left:50px;"><b>For MAHIMA PURESPUN</b><br/><b>(A Unit of Mahima Fibers Pvt. Ltd.)</b></span>
+  	</td>
+  </tr>
+  
+</table>
+
+</body>
+</html>

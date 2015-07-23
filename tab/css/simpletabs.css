@@ -1,0 +1,12 @@
+/* SimpleTabs: default style */
+.current{ margin-top:0px;}
+div.simpleTabs { padding:10px; }
+ul.simpleTabsNavigation { margin:5px 5px; padding:0; text-align:left; }
+ul.simpleTabsNavigation li { list-style:none; display:inline; margin:0; padding:0; }
+ul.simpleTabsNavigation li a { border:1px solid #b4cbe3; padding:2px 13px; background:#376ea6;  font-size:13px; text-decoration:none; font-family:"Lucida Sans Unicode", "Lucida Grande", sans-serif; color:#FFF;border-radius:10px 10px 0 0;}
+ul.simpleTabsNavigation li a:hover { text-decoration:none; background-color:#f3fbd2; border:1px solid #d5dfab; color:#555652;}
+ul.simpleTabsNavigation li a.current { background:#f3fbd2; color:#555652; border-bottom:1px solid #ffffff;}
+div.simpleTabsContent { border:1px solid #E0E0E0; padding:5px 15px 15px 15px; margin-top:3px; display:none; }
+div.simpleTabsContent.currentTab { display:block; }
+
+.new_current { background:#fff; color:#222; border-bottom:1px solid #fff; }
